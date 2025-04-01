@@ -1,10 +1,11 @@
-Unsupervised Machine Learning with Python
+## Unsupervised Machine Learning with Python
 
 This repository documents my application of KMeans clustering to a Spotify dataset containing 5,236 songs. The goal is to create musically meaningful clusters (playlists) and potentially automate playlist creation on Spotify. Detailed steps and outcomes are outlined in the notebook located in the "Script" folder.
 
-Objective: Can machine learning effectively replace human-curated playlists?
+# Objective
+Can machine learning effectively replace human-curated playlists?
 
-Situation
+# Case Study
 This project addresses a business case for Moosic, a startup currently relying on experts to curate playlists. Moosic aims to scale its operations and is exploring machine learning as a scalable alternative. Playlists generated should contain 50-250 songs each.
 
 Approach
